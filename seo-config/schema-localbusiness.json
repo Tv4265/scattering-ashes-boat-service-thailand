@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "เรือลอยอังคารปากอ่าว",
+  "image": "https://www.เรือลอยอังคารปากอ่าว.com/wp-content/uploads/logo.png",
+  "telephone": "083-271-5911",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wat Bang Nang Kreng",
+    "addressLocality": "Samut Prakan",
+    "postalCode": "10270",
+    "addressCountry": "TH"
+  },
+  "url": "https://www.เรือลอยอังคารปากอ่าว.com"
+}
