@@ -1,0 +1,29 @@
+# Boat Service for Scattering Ashes (Paak Ao) - Context for AI
+
+## Project Overview
+Website: https://www.เรือลอยอังคารปากอ่าว.com (xn--12cfi5f6afdmy6cbbf4crcc9ezi0g.com)
+Type: Service Business (Boat Rental & Ceremony)
+Location: Wat Bang Nang Kreng, Samut Prakan, Thailand
+Target Audience: Families seeking Buddhist funeral services for scattering ashes.
+
+## Core Services
+1. Boat Rental:
+   - Sizes: 12, 17, 20, 30, and 50 seats.
+   - Safety: Big boats, life jackets included.
+2. Ceremony Assistance:
+   - Staff provided to conduct the ritual.
+   - Fresh flowers and biodegradable floating urns (Loong) provided.
+
+## Key Entities & Keywords
+- "ลอยอังคาร" (Scattering Ashes)
+- "ปากอ่าวแม่น้ำเจ้าพระยา" (Chao Phraya River Mouth)
+- "วัดบางนางเกรง" (Wat Bang Nang Kreng - Pier location)
+- "สมุทรปราการ" (Samut Prakan)
+
+## Contact Information
+- Phone: 083-271-5911 (Ple), 087-074-9721 (Pui)
+- Service Area: Samut Prakan, Bangkok vicinities.
+
+## Technical Context
+- Platform: WordPress
+- SEO Strategy: Content marketing on "Loi Angkhan" rituals, localized SEO.
