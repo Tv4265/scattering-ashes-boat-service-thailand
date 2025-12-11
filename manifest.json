@@ -1,0 +1,26 @@
+{
+  "project_name": "Paak Ao Boat Service",
+  "domain": "xn--12cfi5f6afdmy6cbbf4crcc9ezi0g.com",
+  "business_type": "LocalBusiness",
+  "geo_location": {
+    "latitude": "13.6263",
+    "longitude": "100.5898",
+    "address": "Wat Bang Nang Kreng, Samut Prakan, Thailand"
+  },
+  "offerings": [
+    {
+      "name": "Small Boat",
+      "capacity": 12,
+      "price_type": "Fixed"
+    },
+    {
+      "name": "Large Boat",
+      "capacity": 50,
+      "price_type": "Fixed"
+    }
+  ],
+  "contacts": {
+    "primary_phone": "+66832715911",
+    "contact_person": "Khun Ple"
+  }
+}
